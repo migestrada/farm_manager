@@ -7,7 +7,7 @@ use crate::farm::Farm;
 
 fn main() {
     let mut farm: Farm = Farm {
-        current_sotarge: 0
+        current_storage: 0
     };
 
     loop {
